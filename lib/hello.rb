@@ -5,5 +5,5 @@ require 'greeter'
 name = ARGV.forst || "World"
 
 greeter = Greeter.new(name);
-puts "Hello #{name}!";
+puts greeter.greet;
 
