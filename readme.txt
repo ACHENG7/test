@@ -1,5 +1,5 @@
 
 creating a new branch is quick and simple.
 
-test branch dev.
+I have fixed bug!
 
